@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:Android="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/id_opcion"
+        android:title="@string/opcion1"
+        android:orderInCategory="100"
+        Android:showAsAction="never">
+
+        <menu >
+            <item android:id="@+id/id_facturas"
+                android:title="@string/factura"
+                android:orderInCategory="1"
+                />
+
+            <item android:id="@+id/id_pedidos"
+                android:title="@string/pedido"
+                android:orderInCategory="1" />
+
+            <item android:id="@+id/id_clientes"
+                android:title="@string/factura"
+                android:orderInCategory="1"/>
+        </menu>
+    </item>
+</menu>

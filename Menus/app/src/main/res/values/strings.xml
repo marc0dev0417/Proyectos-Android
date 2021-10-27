@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="opcion1">Ajustes</string>
+    <string name="factura">Configuración de facturas</string>
+    <string name="pedido">Configuración de pedidos</string>
+    <string name="cliente">Configuración de clientes</string>
+</resources>

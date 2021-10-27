@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contextual">
+    <item
+        android:title="Matar"
+        android:id="@+id/matar"></item>
+
+    <item android:icon="@android:drawable/ic_menu_edit"
+        android:title="Sanar"
+        android:id="@+id/sanar"></item>
+
+    <item
+    android:title="Enviar Mensaje"
+    android:id="@+id/enviarmensaje"></item>
+    </menu>
