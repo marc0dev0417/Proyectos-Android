@@ -10,13 +10,19 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
+
+    Button botonP;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+    botonP = (Button)findViewById(R.id.button);
 
 
 
@@ -31,17 +37,18 @@ public class MainActivity extends AppCompatActivity {
 
                             Log.d("tag", "encontrado"+"Ok");
                             Intent data = result.getData();
-                            Bundle b = data.getExtras();
                         }else{
                             Log.d("tag","encontrado"+"mal");
                         }
-
                     }
                 });
-        //Lanzamiento del ActivityResultLauncher
-        Intent intent = new Intent(MainActivity.this, OtraActividad.class);
-
-        someActivityResultLauncher.launch(intent);
-
+        botonP.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //Lanzamiento del ActivityResultLauncher
+                Intent intent = new Intent(MainActivity.this, OtraActividad.class);
+                someActivityResultLauncher.launch(intent);
+            }
+        });
     }
 }
