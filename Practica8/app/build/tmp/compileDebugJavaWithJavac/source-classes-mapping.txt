@@ -1,0 +1,12 @@
+com/example/practica8/BuildConfig.java
+ com.example.practica8.BuildConfig
+com/example/practica8/MainActivity.java
+ com.example.practica8.MainActivity
+com/example/practica8/ActividadActualizar.java
+ com.example.practica8.ActividadActualizar
+com/example/practica8/ActividadAnnadir.java
+ com.example.practica8.ActividadAnnadir
+com/example/practica8/DiscoReciclador.java
+ com.example.practica8.DiscoReciclador
+com/example/practica8/ActividadBorrar.java
+ com.example.practica8.ActividadBorrar
