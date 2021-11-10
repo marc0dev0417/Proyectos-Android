@@ -19,6 +19,15 @@
             android:textAlignment="center"
             android:textSize="34sp" />
 
+        <Button
+            android:id="@+id/botonConsultar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="15dp"
+            android:text="Consultar" />
+
     </LinearLayout>
 
     <LinearLayout
@@ -28,7 +37,7 @@
         tools:layout_editor_absoluteY="19dp">
 
         <Button
-            android:id="@+id/botonAñadir"
+            android:id="@+id/botonAnadir"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
@@ -54,5 +63,6 @@
             android:layout_marginRight="15dp"
             android:layout_weight="1"
             android:text="Actualizar" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
