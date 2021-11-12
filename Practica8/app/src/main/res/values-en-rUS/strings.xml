@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica8</string>
+    <string name="textoGestion">Disc management</string>
+    <string name="txtBotonAnnadir">Add</string>
+    <string name="txtBotonBorrar">Delete</string>
+    <string name="txtBotonConsultar">Check</string>
+    <string name="txtBotonActualizar">Update</string>
+    <string name="textoAnnadir">Add Disk</string>
+    <string name="textoDiscoAnnadir">Disk:</string>
+    <string name="textoGrupo">Group:</string>
+    <string name="textoBorrar">Delete Disk</string>
+    <string name="textoDiscoBorrar">Disk:</string>
+    <string name="textoGrupoBorrar">Group:</string>
+    <string name="textoActualizar">Update Disk</string>
+    <string name="textoDiscoActualizar">Disk:</string>
+    <string name="textoGrupoActualizar">Group`:</string>
+    <string name="textoVolver">Back</string>
+</resources>

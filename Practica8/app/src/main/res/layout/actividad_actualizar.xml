@@ -9,35 +9,39 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/textoAnnadir"
+            android:id="@+id/textoActualizar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="5dp"
-            android:text="Actualizar Discos"
+            android:text="@string/textoActualizar"
             android:textAlignment="center"
             android:textSize="34sp" />
 
         <EditText
-            android:id="@+id/txt_annadirDisco"
+            android:id="@+id/txt_actualizarDisco"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Disco:" />
+            android:text="@string/textoDiscoActualizar" />
 
         <EditText
-            android:id="@+id/txt_annadirGrupo"
+            android:id="@+id/txt_actualizarGrupo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Grupo:" />
+            android:text="Grupo ->" />
 
         <Button
-            android:id="@+id/botonInsertar"
+            android:id="@+id/botonActualizar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Modificar" />
+            android:text="@string/txtBotonActualizar" />
 
+        <Button
+            android:id="@+id/botonVolverActualizar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textoVolver" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

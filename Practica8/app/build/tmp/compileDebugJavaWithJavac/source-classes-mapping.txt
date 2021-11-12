@@ -1,12 +1,30 @@
 com/example/practica8/BuildConfig.java
  com.example.practica8.BuildConfig
+com/example/practica8/Encapsulador.java
+ com.example.practica8.Encapsulador
 com/example/practica8/MainActivity.java
  com.example.practica8.MainActivity
+ com.example.practica8.MainActivity$1
+ com.example.practica8.MainActivity$2
+ com.example.practica8.MainActivity$3
 com/example/practica8/ActividadActualizar.java
  com.example.practica8.ActividadActualizar
+ com.example.practica8.ActividadActualizar$1
+ com.example.practica8.ActividadActualizar$2
 com/example/practica8/ActividadAnnadir.java
  com.example.practica8.ActividadAnnadir
+ com.example.practica8.ActividadAnnadir$1
+ com.example.practica8.ActividadAnnadir$2
+com/example/practica8/Adaptador.java
+ com.example.practica8.Adaptador
+ com.example.practica8.Adaptador$MyHolder
 com/example/practica8/DiscoReciclador.java
  com.example.practica8.DiscoReciclador
+ com.example.practica8.DiscoReciclador$1
+ com.example.practica8.DiscoReciclador$2
+ com.example.practica8.DiscoReciclador$3
+ com.example.practica8.DiscoReciclador$3$1
 com/example/practica8/ActividadBorrar.java
  com.example.practica8.ActividadBorrar
+ com.example.practica8.ActividadBorrar$1
+ com.example.practica8.ActividadBorrar$2

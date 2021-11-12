@@ -10,6 +10,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
+/*
+    Clase que adapta los objetos discos(Encapsulador) al recyclerView.
+ */
 public class Adaptador extends RecyclerView.Adapter<Adaptador.MyHolder> {
 
     private List<Encapsulador> entradas;
@@ -33,6 +36,7 @@ public class Adaptador extends RecyclerView.Adapter<Adaptador.MyHolder> {
         holder.grupo.setText(entradas.get(position).dameGrupo());
     }
 
+    //Devuelve el numero total de la lista
     @Override
     public int getItemCount() {
         return entradas.size();

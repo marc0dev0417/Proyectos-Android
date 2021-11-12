@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Marco Alonso Benegas\\Desktop\\Practica8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "E:\\AndroidStudioProjects\\Practica8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Marco Alonso Benegas\\.gradle\\caches\\transforms-3\\97e7ec19bd11dff7ae3d399ac9d0fa5b\\transformed\\core-1.5.0\\res\\values-tr\\values-tr.xml",

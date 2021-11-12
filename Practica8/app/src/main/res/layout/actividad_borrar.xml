@@ -9,35 +9,37 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/textoAnnadir"
+            android:id="@+id/textoBorrar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="5dp"
-            android:text="Borrar Discos"
+            android:text="@string/textoBorrar"
             android:textAlignment="center"
             android:textSize="34sp" />
 
         <EditText
-            android:id="@+id/txt_annadirDisco"
+            android:id="@+id/txt_borrarDisco"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Disco:" />
+            android:inputType="textPersonName" />
 
         <EditText
-            android:id="@+id/txt_annadirGrupo"
+            android:id="@+id/txt_borrarGrupo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Grupo:" />
+            android:inputType="textPersonName" />
 
         <Button
-            android:id="@+id/botonInsertar"
+            android:id="@+id/botonBorrar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Eliminar" />
+            android:text="@string/txtBotonBorrar" />
 
+        <Button
+            android:id="@+id/botonVolverBorrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textoVolver" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

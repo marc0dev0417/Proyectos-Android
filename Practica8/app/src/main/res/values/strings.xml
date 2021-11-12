@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Practica8</string>
+
+    <string name="textoGestion">Gestion de Discos</string>
+    <string name="txtBotonAnnadir">Añadir</string>
+    <string name="txtBotonBorrar">Borrar</string>
+    <string name="txtBotonConsultar">Consultar</string>
+    <string name="txtBotonActualizar">Actualizar</string>
+
+
+    <string name="textoAnnadir">Añadir Disco</string>
+    <string name="textoDiscoAnnadir">Disco:</string>
+    <string name="textoGrupo">Grupo:</string>
+
+    <string name="textoBorrar">Borrar Disco</string>
+    <string name="textoDiscoBorrar">Disco:</string>
+    <string name="textoGrupoBorrar">Grupo:</string>
+
+    <string name="textoActualizar">Actualizar Disco</string>
+    <string name="textoDiscoActualizar">Disco:</string>
+    <string name="textoGrupoActualizar">Grupo:</string>
+
+    <string name="textoVolver">Volver</string>
 </resources>

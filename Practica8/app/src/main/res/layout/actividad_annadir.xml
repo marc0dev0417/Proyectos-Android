@@ -13,7 +13,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingTop="5dp"
-            android:text="Añadir Discos"
+            android:text="@string/textoAnnadir"
             android:textAlignment="center"
             android:textSize="34sp" />
 
@@ -37,7 +37,13 @@
             android:id="@+id/botonInsertar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Insertar" />
+            android:text="@string/txtBotonAnnadir" />
+
+        <Button
+            android:id="@+id/botonVolverAnnadir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textoVolver"/>
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

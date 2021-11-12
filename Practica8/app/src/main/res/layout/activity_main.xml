@@ -15,18 +15,18 @@
             android:id="@+id/textoIntroducion"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Gestion de Discos"
+            android:text="@string/textoGestion"
             android:textAlignment="center"
             android:textSize="34sp" />
 
         <Button
-            android:id="@+id/botonConsultar"
+            android:id="@+id/botonCambiarConsultar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="50dp"
             android:layout_marginRight="15dp"
-            android:text="Consultar" />
+            android:text="@string/txtBotonConsultar" />
 
     </LinearLayout>
 
@@ -37,32 +37,23 @@
         tools:layout_editor_absoluteY="19dp">
 
         <Button
-            android:id="@+id/botonAnadir"
+            android:id="@+id/botonCambiarAnadir"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="50dp"
             android:layout_weight="1"
-            android:text="Añadir" />
+            android:text="@string/txtBotonAnnadir" />
 
         <Button
-            android:id="@+id/botonBorrar"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="15dp"
-            android:layout_marginTop="50dp"
-            android:layout_weight="1"
-            android:text="Eliminar" />
-
-        <Button
-            android:id="@+id/botonActualizar"
+            android:id="@+id/botonCambiarBorrar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="50dp"
             android:layout_marginRight="15dp"
             android:layout_weight="1"
-            android:text="Actualizar" />
+            android:text="@string/txtBotonBorrar" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
