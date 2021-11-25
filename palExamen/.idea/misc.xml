@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ffrei/AndroidStudioProjects/palExamen/app/src/main/res/layout/activity_http.xml" value="0.3078125" />
+        <entry key="..\:/Users/ffrei/AndroidStudioProjects/palExamen/app/src/main/res/layout/activity_main.xml" value="0.24647887323943662" />
+        <entry key="..\:/Users/ffrei/AndroidStudioProjects/palExamen/app/src/main/res/layout/activity_recycler.xml" value="0.3375" />
+        <entry key="..\:/Users/ffrei/AndroidStudioProjects/palExamen/app/src/main/res/layout/activity_sms.xml" value="0.5262681159420289" />
+        <entry key="..\:/Users/ffrei/AndroidStudioProjects/palExamen/app/src/main/res/layout/activity_socket.xml" value="0.3375" />
+        <entry key="..\:/Users/ffrei/AndroidStudioProjects/palExamen/app/src/main/res/layout/recyclerlista.xml" value="0.3302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
