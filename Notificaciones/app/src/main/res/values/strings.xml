@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="textoInformativo">La algoritmia es una ciencia: está sustentada en un conjunto de modelos matemáticos. Existen una cantidad de técnicas que han sido ampliamente estudiadas por los científicos de la computación para resolver problemas que aparecen en diversas áreas de la ciencia. Por ejemplo, la traducción de lenguajes, la clasificación y ordenación de datos, los algoritmos para cifrado y el cálculo numérico, son algunas de las áreas donde aún en la actualidad, se mantiene muy activa la investigación de nuevas técnicas y el desarrollo de algoritmos y programas más eficientes.</string>
+</resources>
