@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/actividad_canva_paint.xml" value="0.29528985507246375" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/actividad_elegir_imagen.xml" value="0.29528985507246375" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/actividad_grabar_video.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/actividad_imagen_sonido.xml" value="0.26875" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/actividad_reproducir.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/actividad_reproducir_video.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/activity_main.xml" value="0.29528985507246375" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/activity_maps.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/grabar_audio.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/imagen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/imagen_animada.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/imagen_modelo.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/imagen_sonido.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/mostrar_imagenes_audio.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/reciclador.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Marco Alonso Benegas/Desktop/mapaInteractivoMultimedia/app/src/main/res/layout/reproducir_sonido.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/OneDrive/Escritorio" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="false" />
+    <option name="OPTION_DEPRECATED_LIST" value="false" />
+    <option name="OPTION_INCLUDE_LIBS" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

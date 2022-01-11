@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">mapaInteractivoMultimedia</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- Botones Actividad de la imagen -->
+    <string name="botonGrabar">Grabar</string>
+    <string name="botonFondoPantalla">Fondo Pantalla</string>
+    <string name="botonAnimarImagen">Animar Imagen</string>
+
+    <!-- Botones Actividad Grabar Audio -->
+    <string name="botonGrabarAudio">Grabar</string>
+    <string name="botonPararAudio">Parar</string>
+    <string name="botonReproducirAudio">Reproducir</string>
+
+    <!-- Boton Actividad Grabar Video -->
+    <string name="botonReproducirVideo">Reproducir</string>
+
+    <!-- Boton Actividad Regresar Video -->
+    <string name="botonRegresarVideo">Regresar</string>
+</resources>
